@@ -1,0 +1,9 @@
+.course{
+    display:flex;
+    border-bottom:1px solid gray;
+    margin-top:10px;
+}
+.course img{
+    height:150px;
+    margin: 20px;
+}
